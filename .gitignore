@@ -1,2 +1,3 @@
-*.4teacher.ipynb
+*4teacher.ipynb
 .ipynb_checkpoints
+.DS_Store
